@@ -59,11 +59,10 @@
       "data": []
     }
   ],
-  "carrier": [
-    {
-      "success": true,
-      "errors": null,
-      "data": {
+  "carrier": {
+    "success": true,
+    "errors": null,
+    "data": {
       {
         "avatar": "https://www.thewrap.com/wp-content/uploads/2017/04/thor.jpg",
         "name": "Thor",
@@ -126,6 +125,5 @@
         ]
       }
     }
-    }
-  ]
+  }
 }
