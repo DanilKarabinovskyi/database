@@ -1,6 +1,16 @@
 {
-  "success": true,
-  "errors": null,
+  "users": [
+    {
+      "id": 1,
+      "name": "David",
+      "age": 30
+    },
+    {
+      "name": "John",
+      "id": 2,
+      "age": 40
+    }
+  ],
   "data": [
     {
       "avatar": "https://cdn3.movieweb.com/i/article/pzi0V24b4UMAivfDW3oNGEDLUO46CT/798:50/Avengers-Endgame-Rerelease-Fan-Backlash-Hulk-Deleted-Scene.jpg",
